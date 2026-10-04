@@ -1,0 +1,6 @@
+{
+  "name": "Toán 12 - Khắc Phục Lỗi Sai Kinh Điển & Luyện Thi Thông Minh",
+  "description": "Nền tảng học tập Toán 12 đột phá: phân tích 7 nhóm lỗi sai kinh điển, sách giáo khoa điện tử, ngân hàng câu hỏi chuẩn GDPT mới, tự tạo đề thi và sơ đồ chẩn đoán lộ trình cá nhân hóa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
