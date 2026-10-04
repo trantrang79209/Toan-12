@@ -6,6 +6,10 @@ import {defineConfig} from 'vite';
 export default defineConfig(() => {
   return {
     base: '/Toan-12/',
+    server: {
+    port: 3000,
+    host: '0.0.0.0',
+},
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
